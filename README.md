@@ -6,7 +6,7 @@
 
 ### Trabalho de Banco de Dados - Instituto Universitário DIGIGUI
 
-Este projeto consiste em um *script* em **Python** que automatiza a criação do *schema* de um banco de dados relacional para um Sistema de Gerenciamento Acadêmico e o povoamento com **dados sintéticos realistas**. O sistema é modelado para rodar em **PostgreSQL** (com foco no uso do **CockroachDB**).
+Este projeto consiste em um *script* em **Python** que automatiza a criação do *schema* de um banco de dados relacional para um Sistema de Gerenciamento Acadêmico e o povoamento com **dados sintéticos realistas**. O sistema é modelado para rodar em com uso do **CockroachDB**.
 
 ---
 
